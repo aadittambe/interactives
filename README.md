@@ -1,4 +1,6 @@
-# An index of stand-alone graphics and interactives I have built — some for practice, others for classes
+# Interactives
+
+An index of stand-alone graphics and interactives I have built — some for practice, others for classes
 
 | Title       | Stack       | Repository    | Graphic
 | :---        | :---        | :---          | :---   
