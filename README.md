@@ -4,6 +4,8 @@ An index of stand-alone graphics and interactives I have built — some for pra
 
 | Title       | Stack       | Repository    | Graphic
 | :---        | :---        | :---          | :---   
+| Relationship between locations and causes of migrant deaths| D3 |[migrants](https://github.com/aadittambe/grid-map)|[here](https://aadittambe.github.io/migrants/viz/sankey.html)
+| Migrant deaths by migratory routes| D3 |[migrants](https://github.com/aadittambe/grid-map)|[here](https://aadittambe.github.io/migrants/viz/routes.html)
 | Condition of voting laws in the U.S.| D3, Squaire|[grid-map](https://github.com/aadittambe/grid-map)|[here](https://aadittambe.github.io/grid-map/)
 | Maryland counties, by population change   | D3, Squaire        | [md-grid-map](https://github.com/aadittambe/md-grid-map)| [here](https://aadittambe.github.io/md-grid-map/)
 | U.S. train systems | D3 | [us-train-systems-map](https://github.com/aadittambe/us-train-systems-map)| [here](https://aadittambe.github.io/md-grid-map/)
